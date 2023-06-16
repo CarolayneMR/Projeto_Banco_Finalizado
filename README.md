@@ -1,1 +1,2 @@
-# projeto_banco_template_arquivo
+## Projetinho de POO, sobre um BANCO.
+Finalizado e com as devidas alterações.
